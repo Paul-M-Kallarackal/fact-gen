@@ -1,0 +1,28 @@
+{
+  "name": "fact-gen",
+  "version": "1.0.1",
+  "description": "Generate random facts for different use-cases like loading screens in your video games or for placeholders in your Javascript application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-M-Kallarackal/fact-gen.git"
+  },
+  "keywords": [
+    "facts",
+    "random facts",
+    "fact generator",
+    "trivia"
+  ],
+  "author": "Paul M Kallarackal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-M-Kallarackal/fact-gen/issues"
+  },
+  "homepage": "https://github.com/Paul-M-Kallarackal/fact-gen#readme",
+  "dependencies": {
+    "fact-gen": "file:"
+  }
+}
